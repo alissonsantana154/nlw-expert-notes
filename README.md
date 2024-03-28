@@ -1,6 +1,6 @@
 ![Cover](./github/cover.png)
 
-# NLW Expert (React)
+# NOTES
 https://nlw-expert-notes-two-self.vercel.app/
 
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
